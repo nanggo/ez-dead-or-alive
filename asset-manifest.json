@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ez-dead-or-alive/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ez-dead-or-alive/static/js/main.df3b8c6a.chunk.js",
+    "main.js.map": "/ez-dead-or-alive/static/js/main.df3b8c6a.chunk.js.map",
+    "runtime-main.js": "/ez-dead-or-alive/static/js/runtime-main.76899ee5.js",
+    "runtime-main.js.map": "/ez-dead-or-alive/static/js/runtime-main.76899ee5.js.map",
+    "static/js/2.9699aabf.chunk.js": "/ez-dead-or-alive/static/js/2.9699aabf.chunk.js",
+    "static/js/2.9699aabf.chunk.js.map": "/ez-dead-or-alive/static/js/2.9699aabf.chunk.js.map",
+    "index.html": "/ez-dead-or-alive/index.html",
+    "precache-manifest.ac98569afdb61c8ca5474ee9734ce1f7.js": "/ez-dead-or-alive/precache-manifest.ac98569afdb61c8ca5474ee9734ce1f7.js",
+    "service-worker.js": "/ez-dead-or-alive/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ez-dead-or-alive/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9699aabf.chunk.js.LICENSE.txt": "/ez-dead-or-alive/static/js/2.9699aabf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76899ee5.js",
+    "static/js/2.9699aabf.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.df3b8c6a.chunk.js"
+  ]
+}
