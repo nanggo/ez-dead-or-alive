@@ -107,6 +107,9 @@ export default class App extends React.PureComponent {
     return (
       <div>
         <h1>🕵️ LET'S WRITE SERVICE STATUS: 💀 OR 🌱</h1>
+        <i>
+          죽었다는 말 쓰지말아주세욧! 민감하니까! <del>앗흥!</del>
+        </i>
 
         <Paper>
           <Scheduler data={data} height={660}>
